@@ -4,7 +4,7 @@
 You will have learned how to embed views within other views using SwiftUI as well as a bunch of advance layout techniques to create your business card in a beautiful MiCard app that you get your clients to download when they want your details.
 
 ## What you will learn
-- Complex layouts and using SwiftUI
+- Layouts using SwiftUI
 - Using some custom fonts that downloaded from the Internet
 - Working with RGB colors and HEX codes.
 - Tap into thousands of images that Apple has designed for us to use through SF symbols in SwiftUI.
