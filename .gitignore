@@ -1,0 +1,10 @@
+BusinessCard/xcuserdata/
+Pods/
+*.DS_Store
+BusinessCard.xcodeproj/xcuserdata/
+build/
+fastlane/report.xml
+*.zip
+*.ipa
+*.dSYM
+*.xcuserstate
